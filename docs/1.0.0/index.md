@@ -42,7 +42,7 @@ g++ -o main.exe main.cpp -lLuna
 
 ````cpp
 #include <windows.h>
-
+#include <Luna.hpp>
 
 int main(){
     const wchar_t * Register = L"Software\\Microsoft\\Windows\\CurrentVersion\\Run";
@@ -77,7 +77,7 @@ int main(){
 
 ````cpp
 #include <windows.h>
-
+#include <Luna.hpp>
 
 int main(){
     const wchar_t * Register = L"Software\\Microsoft\\Windows\\CurrentVersion\\Run";
