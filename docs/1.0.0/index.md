@@ -41,6 +41,7 @@ g++ -o main.exe main.cpp -lLuna
 - **Exemple de Code :**
 
 ````cpp
+#include <iostream>
 #include <windows.h>
 #include <Luna.hpp>
 
@@ -76,6 +77,7 @@ int main(){
 - **Exemple de Code :**
 
 ````cpp
+#include <iostream>
 #include <windows.h>
 #include <Luna.hpp>
 
