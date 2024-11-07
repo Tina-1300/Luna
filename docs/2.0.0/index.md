@@ -8,7 +8,7 @@ Cette bibliothèque permet de géré les clé de registre sous windows pour cett
 
 - Crée une clé de registre 
 - Suprimmer une clé de registre 
-- Lire la valeur que stock une cle de registre  :  A faire urgent
+- Lire la valeur que stock une cle de registre 
 
 ## Compilation :
 
