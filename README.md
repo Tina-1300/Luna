@@ -22,6 +22,11 @@ Une bibliothèque C++ pour [description de votre bibliothèque].
 
 ## Documentation :
 
-- [Version 1.0.0](./docs/1.0.0/index.md)
-- [Version 2.0.0](./docs/2.0.0/index.md)
+|                 Version                 | Date de Sortie   |
+|-----------------------------------------|------------------|
+| [Version 1.0.0](./docs/1.0.0/index.md)  |    4/11/2024     |
+| [Version 2.0.0](./docs/2.0.0/index.md)  |    7/11/2024     |
+| [Version 2.1.0](./docs/2.1.0/index.md)  |    9/11/2024     |
+ 
+
 
